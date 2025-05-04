@@ -1,4 +1,5 @@
 127.0.0.1:1234#cfnat
+192.168.1.2:1234#natPhone
 198.62.62.156:443#US
 162.159.129.11:2053#US
 162.159.129.67:8443#US
@@ -10,9 +11,6 @@ abdullah.ns.cloudflare.com
 bowen.ns.cloudflare.com
 benedict.ns.cloudflare.com
 braden.ns.cloudflare.com
-[2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]#IPV6
-[2606:4700:9b08:7ce1:8882:ba8c:2880:c619]#IPV6
-[2606:4700:9b08:dd59:154f:abf8:46b5:25bb]#IPV6
 cris.ns.cloudflare.com
 craig.ns.cloudflare.com
 decker.ns.cloudflare.com
