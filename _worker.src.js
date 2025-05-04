@@ -11,7 +11,7 @@ import { connect } from 'cloudflare:sockets';
 
 // Generate your own UUID using the following command in PowerShell:
 // Powershell -NoExit -Command "[guid]::NewGuid()"
-let userID = 'd0298536-d670-4045-bbb1-ddd5ea68683e';
+let userID = '6e0a91ec-210b-4bef-9260-a27af5f71e94';
 let kvUUID;
 
 // Proxy IPs to choose from
@@ -39,10 +39,10 @@ let ipUrl = [
 
 ];
 let ipUrlTxt = [
-	atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25pbWluZ3poZTcvYW10dW5uZWwvcmVmcy9oZWFkcy9tYWluL2lwdjQudHh0=')
+	atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FtY2x1YnMvYW0tY2YtdHVubmVsL21haW4vaXB2NC50eHQ=')
 ];
 let ipUrlCsv = [
-	// atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25pbWluZ3poZTcvYW10dW5uZWwvcmVmcy9oZWFkcy9tYWluL2lwdjQuY3N2=')
+	// atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FtY2x1YnMvYW0tY2YtdHVubmVsL21haW4vaXB2NC5jc3Y=')
 ];
 // Preferred addresses with optional TLS subscription
 let ipLocal = [
