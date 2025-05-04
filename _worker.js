@@ -39,10 +39,10 @@ let ipUrl = [
 
 ];
 let ipUrlTxt = [
-	atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25pbWluZ3poZTcvYW10dW5uZWwvcmVmcy9oZWFkcy9tYWluL2lwdjQudHh0=')
+	atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FtY2x1YnMvYW0tY2YtdHVubmVsL21haW4vaXB2NC50eHQ=')
 ];
 let ipUrlCsv = [
-	// atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25pbWluZ3poZTcvYW10dW5uZWwvcmVmcy9oZWFkcy9tYWluL2lwdjQuY3N2=')
+	// atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FtY2x1YnMvYW0tY2YtdHVubmVsL21haW4vaXB2NC5jc3Y=')
 ];
 // Preferred addresses with optional TLS subscription
 let ipLocal = [
